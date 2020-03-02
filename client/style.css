@@ -1,0 +1,49 @@
+
+html, body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333232;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+ background-image: linear-gradient(#1a7a1c, #6b4510, #6b4510, #605f60);
+}
+
+h1,h2,h3{
+  text-shadow: 3px 2px black;
+}
+
+input{
+  size: 50;
+  color: #333232;
+  background-color: #7c7c7c; 
+}
+
+#top {
+  text-align: center;
+  margin: 0 auto;
+  font-size: 1.5em;
+}
+
+#top h1 {
+  font-size: 2.5em;
+}
+
+#content {
+  margin-top: 100px;
+  font-size: 2em;
+  text-align: center;
+}
+
+#urlField{
+display: none;
+}
+
+#methodSelect{
+  display: none;
+}
+
+img{
+background-color: #805a23;
+
+}
