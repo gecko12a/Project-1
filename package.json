@@ -1,7 +1,7 @@
 {
-  "name": "http2",
+  "name": "Minecraft Server Checker",
   "version": "1.0.0",
-  "description": "hw",
+  "description": "Project 1",
   "main": "index.js",
   "scripts": {
     "start": "node ./src/server.js",
